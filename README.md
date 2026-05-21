@@ -12,3 +12,4 @@ harmanpreet kaur
 Quinn Harder
 Andy
 Yash
+Tari
